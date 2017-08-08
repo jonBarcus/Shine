@@ -8,7 +8,7 @@
 // layout file, like app/views/layouts/application.html.erb
 
 import "./application.css";
-import "bootstrap/dist/css/boostrap.css";
+import "bootstrap/dist/css/bootstrap.css";
 console.log('Hello World from Webpacker')
 
 
