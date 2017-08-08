@@ -28,6 +28,9 @@ gem 'coffee-rails', '~> 4.2'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 
+# adding Devise for authentication
+gem 'devise'
+
 # Using foreman so we can run another server for our front-end stuff
 # see pg. 10
 gem 'foreman'
