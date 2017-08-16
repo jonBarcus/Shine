@@ -31,6 +31,8 @@ gem 'jbuilder', '~> 2.5'
 # adding Devise for authentication
 gem 'devise'
 
+gem 'faker'
+
 # Using foreman so we can run another server for our front-end stuff
 # see pg. 10
 gem 'foreman'
